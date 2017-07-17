@@ -1,7 +1,3 @@
-# Documentation: http://docs.brew.sh/Formula-Cookbook.html
-#                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-
 class Gsl23 < Formula
   desc "Numerical library for C and C++"
   homepage "https://www.gnu.org/software/gsl/"
